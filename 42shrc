@@ -1,0 +1,4 @@
+#! ./42sh
+
+alias @ "set $"
+alias ll "ls -l"
